@@ -1,5 +1,5 @@
 {
-  "name": "rety",
+  "name": "project-name",
   "version": "1.0.0",
   "scripts": {
     "start": "webpack serve",
@@ -7,7 +7,6 @@
     "lint": "eslint \"./src/**/*.{ts,tsx,js,jsx}\" || true",
     "lint:fix": "eslint --fix \"./src/**/*.{ts,tsx,js,jsx}\" || true"
   },
-  "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "@types/react": "^17.0.3",
